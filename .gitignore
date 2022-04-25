@@ -1,0 +1,4 @@
+#ignore below files
+
+*.java
+*.css
